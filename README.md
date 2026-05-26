@@ -1,4 +1,4 @@
-# 🤖 Asistente IA SaaS
+# Asistente IA SaaS
 
 Chatbot con inteligencia artificial para negocios, desarrollado con **FastAPI**, **LangChain** y **Google Gemini**.
 
